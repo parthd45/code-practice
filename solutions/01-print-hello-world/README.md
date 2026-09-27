@@ -16,11 +16,11 @@ Expected Output:
 "Hello, World!"
 ```
 
-## Solution (Python)
-```python
-# Task: Print "Hello, World!" to the console
-# Write your code below:
-print "Hello, World!"
+## Solution (JavaScript)
+```javascript
+// Task: Print "Hello, World!" to the console
+// Write your code below using console.log():
+
 ```
 
 ---
